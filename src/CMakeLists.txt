@@ -1,3 +1,4 @@
+add_definitions(-DBEM -BEM)
 add_executable(b-em
     6502.c
     6502debug.c
